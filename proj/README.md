@@ -5,7 +5,7 @@ It is a PHP project.
 
 Instalation ::
 
-step 1)Copy full folder in your web directory.
+1)Copy full folder in your web directory.
 
 2)Import database in your phpmyadmin named project.sql.
 
