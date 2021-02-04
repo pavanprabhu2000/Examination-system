@@ -11,6 +11,10 @@ Instalation ::
 
 3)Edit dbconnection file.change username,password and database name.Default user is root,password is null and database name is project.
 
+Thank you
+
+THundeR studios
+
 
 
 
